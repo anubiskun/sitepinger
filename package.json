@@ -1,0 +1,35 @@
+{
+  "name": "sitepinger",
+  "version": "1.0.0",
+  "description": "simple site pinger by anubiskun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubiskun/sitepinger.git"
+  },
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "keywords": [
+    "sitepingger",
+    "herokupingger",
+    "heroku",
+    "pinger",
+    "pingsite",
+    "site",
+    "npm",
+    "javascript"
+  ],
+  "author": "anubiskun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anubiskun/sitepinger/issues"
+  },
+  "homepage": "https://github.com/anubiskun/sitepinger#readme"
+}
