@@ -1,4 +1,4 @@
-import { request } from 'http';
+const { request } = require('http')
 
 /**
  * url without `http://` or `https://`
