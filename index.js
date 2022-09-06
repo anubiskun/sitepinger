@@ -76,4 +76,4 @@ class anubisPinger {
   }
 }
 
-export default pingger
+module.exports = pingger
